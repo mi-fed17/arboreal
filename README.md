@@ -1,18 +1,16 @@
-# Arboreal
-
 <img src="logo/color.png" alt="Arboreal" height="150" width="auto" align="right">
 
-Startup-företaget **Arboreal** behöver en ny landningssida för sin affärsidé. Ni har fått i uppdrag att ta fram wireframes för hur denna landningssida ska se ut. 
+Startup-företaget **Arboreal** behöver en ny landningssida för sin affärsidé. Ni har fått i uppdrag att ta fram wireframes för hur denna sida ska se ut. 
 
 _Arboreal_ har en prenumerationstjänst för företag. Tjänsten innebär att man får sitt företags kontor inrett med växter med hjälp av experter från _Arboreal_. Sedan betalar man en månadskostnad för att få nya växter levererade och placerade på kontoret varje månad eller vecka beroende på vilken prisplan man har valt.
 
 ## Krav
 
 * Wireframes i två versioner: **mobil** och **desktop**
-* Landningssidan ska ha information om vad tjänsten är för något.
-* Landningssidan ska ha information om de olika prisplanerna (se längre ner)
-* Landningssidan ska ha information om de olika teman (se längre ner)
-* Landningssidan ska ha kontaktinformation till _Arboreal_ i footern.
+* Landningssidan ska ha information om vad företaget gör och vad tjänsten är för något.
+* Undersidan *Pricing* ska ha information om de olika prisplanerna (se längre ner)
+* Undersidan *Themes* ska ha information om de olika teman (se längre ner)
+* Alla sidor ska ha kontaktinformation till _Arboreal_ i footern.
 
 ## Arboreal's mission
 
@@ -22,7 +20,7 @@ _Arboreal_ har en prenumerationstjänst för företag. Tjänsten innebär att ma
 
 #### Logotyp
 
-Logotyper i olika färger finns i mappen **logo** i detta repository.
+Logotyper i olika färger finns i mappen [**logo**](https://github.com/mi-fed17/arboreal/tree/gh-pages/logo) i detta repository.
 
 #### Pricing
 
@@ -40,9 +38,9 @@ Logotyper i olika färger finns i mappen **logo** i detta repository.
 * __Aloha__
     + This rich theme includes exotic coconuts spilling all over the floor combined with palm trees that hang down and are always in the way of your daily workflow. This theme is very complicated, suitable for complex startups.
 * __Siberia__
-    + Dead plants everywhere. Plants sprayed with white color to give that cold secluded look. Is your startup the kind that exploits its workforce? Then this is the setup for you!
+    + Dead plants everywhere. Plants sprayed with white color to give that cold secluded look. Very few plants.
 * __Exotique Nørdic__ 
-    + Everyting is just pine and spruce. Get that Norrlands inland-look in your office. Comes with a _Christmas Decoration Extension Pack_ for the first 100 subscribers (Bears not included).
+    + Everything is just pine and spruce. Get that Norrlands inland-look in your office. Comes with a _Christmas Decoration Extension Pack_ for the first 100 subscribers (Bears not included).
 
 #### Contact information
 
